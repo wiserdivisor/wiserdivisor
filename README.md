@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello Friend 🤖
+***
+I like solving problems. 
+Got a cool community or a crazy idea? Count me in.
+Always open for new opportunities and making friends :)
+***
+Stats that you see below do not include my private repos (my projects).
 
-<!--
-**wiserdivisor/wiserdivisor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![WiserDivisor's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiserdivisor&theme=algolia&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiserdivisor&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=wiserdivisor&theme=algolia&column=3&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+***
+### HackerRank
+![[Pasted image 20211109222922.png]]
+***
