@@ -1,7 +1,7 @@
 ### Hello Friend 🤖
 ***
-I like solving problems. 
-Got a cool community or a crazy idea? Count me in.
+I like solving problems.  
+Got a cool community or a crazy idea? Count me in.  
 Always open for new opportunities and making friends :)
 ***
 Stats that you see below do not include my private repos (my projects).
@@ -13,5 +13,5 @@ Stats that you see below do not include my private repos (my projects).
 [![trophy](https://github-profile-trophy.vercel.app/?username=wiserdivisor&theme=algolia&column=3&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ***
 ### HackerRank
-![[Pasted image 20211109222922.png]]
+![HackerRankBadges](hr.png)
 ***
